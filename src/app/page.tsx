@@ -69,7 +69,7 @@ export default function LandingPage() {
           handle: "@kenjisato",
           testimonial: "An unparalleled wagyu experience in the city.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/lamb-chicken-burger-without-top-bun-with-mushroom-herbs-tomato-sauce_140725-8320.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/lamb-chicken-burger-without-top-bun-with-mushroom-herbs-tomato-sauce_140725-8320.jpg?_wi=1",
           imageAlt: "luxury japanese steakhouse interior",
         },
         {
@@ -77,7 +77,7 @@ export default function LandingPage() {
           handle: "@yumit",
           testimonial: "Exquisite attention to detail, the finest ingredients.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-male-chef-decorating-dish_23-2147863785.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-male-chef-decorating-dish_23-2147863785.jpg?_wi=1",
           imageAlt: "luxury japanese steakhouse interior",
         },
         {
@@ -85,7 +85,7 @@ export default function LandingPage() {
           handle: "@hiroshim",
           testimonial: "The atmosphere is unmatched and the service is perfect.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-japanese-meal-composition_23-2148809881.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-japanese-meal-composition_23-2148809881.jpg?_wi=1",
           imageAlt: "luxury japanese steakhouse interior",
         },
         {
@@ -93,7 +93,7 @@ export default function LandingPage() {
           handle: "@akikok",
           testimonial: "Authentic flavors crafted with immense care.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-grilled-japanese-eel-with-sliced-cucumbers-gingers-served-with-wasabi-sauce-bamboo-leaf-ice-cubes-plate-table_141793-11605.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-grilled-japanese-eel-with-sliced-cucumbers-gingers-served-with-wasabi-sauce-bamboo-leaf-ice-cubes-plate-table_141793-11605.jpg?_wi=1",
           imageAlt: "luxury japanese steakhouse interior",
         },
         {
@@ -101,11 +101,11 @@ export default function LandingPage() {
           handle: "@takeshil",
           testimonial: "The best dining experience I've had in years.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-nigiri-sushi-with-tuna-bamboo-leaf-served-with-pickled-ginger-slices-wasabi-plate_141793-8469.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-nigiri-sushi-with-tuna-bamboo-leaf-served-with-pickled-ginger-slices-wasabi-plate_141793-8469.jpg?_wi=1",
           imageAlt: "luxury japanese steakhouse interior",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/lamb-chicken-burger-without-top-bun-with-mushroom-herbs-tomato-sauce_140725-8320.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/lamb-chicken-burger-without-top-bun-with-mushroom-herbs-tomato-sauce_140725-8320.jpg?_wi=2"
       imageAlt="Kazan Steakhouse Atmosphere"
       mediaAnimation="slide-up"
       avatars={[
@@ -166,7 +166,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       title="A Legacy of Craftsmanship"
       description="Born from generations of culinary wisdom, we transform the rarest ingredients into unforgettable memories."
-      imageSrc="http://img.b2bpic.net/free-photo/close-up-male-chef-decorating-dish_23-2147863785.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/close-up-male-chef-decorating-dish_23-2147863785.jpg?_wi=2"
       imageAlt="Chef at Work"
     />
   </div>
@@ -182,19 +182,19 @@ export default function LandingPage() {
           id: "1",
           name: "A5 Wagyu Ribeye",
           price: "Market Price",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-japanese-meal-composition_23-2148809881.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-japanese-meal-composition_23-2148809881.jpg?_wi=2",
         },
         {
           id: "2",
           name: "Crispy Tempura",
           price: "$28",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-grilled-japanese-eel-with-sliced-cucumbers-gingers-served-with-wasabi-sauce-bamboo-leaf-ice-cubes-plate-table_141793-11605.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-grilled-japanese-eel-with-sliced-cucumbers-gingers-served-with-wasabi-sauce-bamboo-leaf-ice-cubes-plate-table_141793-11605.jpg?_wi=2",
         },
         {
           id: "3",
           name: "Bluefin Toro Sashimi",
           price: "$45",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-nigiri-sushi-with-tuna-bamboo-leaf-served-with-pickled-ginger-slices-wasabi-plate_141793-8469.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-nigiri-sushi-with-tuna-bamboo-leaf-served-with-pickled-ginger-slices-wasabi-plate_141793-8469.jpg?_wi=2",
         },
         {
           id: "4",
